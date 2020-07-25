@@ -1,0 +1,206 @@
+ .txtsiz {
+     font-size: 80px;
+     border: 1px solid rgb(119, 13, 13);
+     width: max-content;
+     padding: 5px;
+     margin: 0 auto;
+     transition-delay: 2s;
+ }
+ 
+ .txtsiz:hover {}
+ 
+ .FNTCLR {
+     color: rgb(39, 201, 160);
+     background-color: white;
+     width: 200px;
+     margin: -15px auto 0 auto;
+ }
+ 
+ .FNTCLR:hover {
+     background-color: rgb(39, 201, 160);
+     color: white;
+ }
+ 
+ .clrne {
+     color: rgb(39, 201, 160);
+ }
+ 
+ .bgimg1 {
+     background-image: url("images/2.jpg");
+     background-position: center center;
+     height: 300px;
+ }
+ 
+ .bord {
+     border-top: 4px solid rgb(39, 201, 160);
+     border-bottom: 4px solid rgb(39, 201, 160);
+     width: max-content;
+     margin: 0 auto
+ }
+ 
+ .diagonalborder {
+     background-color:transparent;
+     
+     border: 5px solid rgb(39, 201, 160);
+     width: 60px;
+     height: 60px;
+ }
+ 
+ .menuhov:hover {
+     background-color: rgb(39, 201, 160);
+     border-radius: 50px;
+     color: white;
+ }
+ 
+ .roundprog {
+     background-color: rgb(240, 227, 227);
+     border-radius: 80%;
+     width: 100px;
+     height: 100px;
+     border: 5px solid crimson;
+ }
+ 
+ .roundprog1 {
+     border: 5px solid rgb(201, 226, 88);
+ }
+ 
+ .roundprog2 {
+     border: 5px solid rgb(111, 32, 148);
+ }
+ 
+ .roundprog3 {
+     border: 5px solid rgb(35, 163, 24);
+ }
+ 
+ .bgclr2 {
+     background: url(images/cu1bg.png);
+     opacity: 0.9;
+     background-attachment: fixed;
+ }
+ 
+ .bgclr3 {
+     background-color: rgb(30, 199, 199);
+ }
+ 
+ .bgclrr4 {
+     background-color: rgb(173, 194, 194);
+     height: 400px;
+ }
+ 
+ .BGVID1{
+     
+ }
+ 
+ .txtarh {
+     height: 100px;
+ }
+ 
+ .border1 {
+     border: 1px solid black;
+     width: 100%;
+ }
+ 
+ .bgclr6 {
+     background-color: rgb(30, 199, 199);
+     width: 100px;
+     padding: 3px;
+     border-radius: 5px;
+ }
+ 
+ .wdthgt {
+     max-width: 100%;
+     height: 300px;
+ }
+ 
+ .footmediahgt {
+     width: 40px;
+     height: 40px;
+ }
+ 
+ .jstfy {
+     justify-content: center;
+ }
+ 
+ .footer {
+     background-image: url(images/p1.jpg);
+ }
+ .corebg{
+     background-image: url(images/cu1bg.png);
+     background-position: center center;
+  
+     padding: 50px;
+ }
+ .bgforclient{
+     background: url(images/cl1.png);
+     background-size: cover;
+     background-position: center center;
+     background-attachment: fixed;
+ }
+ 
+.bgmm2{
+    background-color: rgb(210, 218, 216);
+}
+ .bgmm3{
+     background-color: rgb(231, 231, 247);
+ }
+ .readm{
+     color:rgb(30, 199, 199);
+     border: 2px solid rgb(30, 199, 199);
+     padding: 2px;
+     width: max-content;
+ }
+ .bzck{
+     background-color: rgb(30, 199, 199);
+     width: 80px;
+     height: 80px;
+ }
+ .bacg1{
+     background-color: rgb(127, 79, 182);
+ }
+ .bacg2{
+    background-color: rgb(170, 58, 64);
+}
+.bacg3{
+    background-color: rgb(212, 221, 133);
+}
+.bacg4{
+    background-color: rgb(56, 121, 107);
+}
+.footer{
+background: url(images/footbg.jpg);
+height: 80px;
+}
+.footbg{
+    background-color: rgb(41, 42, 51);
+    width:30px;
+    height: 30px;
+}
+.tpskl-bg{
+    background-color: rgb(234, 239, 245);
+}
+.dotedborder{
+    border: 1px dotted black;
+    width: max-content;
+    margin: auto;
+}
+.bodertop1{
+    border-top:2px solid rgb(30, 199, 199) ;
+    width: max-content;
+    margin: auto;
+}
+.viewfrtht{
+    width: 80%;
+    height:300px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 576px) {
+    .txtsiz{
+        font-size: 30px;
+    }
+}
+
+
+
+ 
+ 
